@@ -2,11 +2,12 @@ const fs = require('fs');
 let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
-module.exports = (label) => {
+module.exports = (enlabel, kylabel) => {
   return {
     type: 'item',
     labels: {
-      en: label,
+      en: enlabel,
+      ky: kylabel,
     },
     descriptions: {
       en: `politician in ${meta.jurisdiction.name}`,
