@@ -1,0 +1,293 @@
+{
+  "title": "Akylbek Japarov",
+  "pageID": 68990050,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "People from Issyk-Kul Region",
+    "Kyrgyz Technical University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Akylbek Usenbekovich Japarov (Акылбек Усенбекович Жапаров; born 14 September 1964 ) is a Kyrgyz politician serving as Chairman of the Cabinet of Ministers of Kyrgyzstan since 12 October 2021.",
+              "links": [
+                {
+                  "text": "Kyrgyz",
+                  "type": "internal",
+                  "page": "Kyrgyzstan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chairman of the Cabinet of Ministers of Kyrgyzstan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Akylbek Usenbekovich Japarov"
+                ]
+              }
+            },
+            {
+              "text": "He replaced Ulukbek Maripov, who had been appointed to the new role by President Sadyr Japarov on 5 May 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ulukbek Maripov"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Kyrgyzstan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sadyr Japarov"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Coming from an economic and engineering background, Japarov had previously served in several mostly economic roles under the Akayev and Bakiyev governments, including as Minister of Economy and Finance from 26 March 2005 to 27 December 2007 under Bakiyev after the Tulip Revolution.",
+              "links": [
+                {
+                  "text": "Akayev",
+                  "type": "internal",
+                  "page": "Askar Akayev"
+                },
+                {
+                  "text": "Bakiyev",
+                  "type": "internal",
+                  "page": "Kurmanbek Bakiyev"
+                },
+                {
+                  "text": "Minister of Economy and Finance",
+                  "type": "internal",
+                  "page": "Ministry of Economy and Finance (Kyrgyzstan)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tulip Revolution"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kyrgyz head of government since 2021",
+          "template": "short description"
+        },
+        {
+          "date": "October 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2021",
+          "template": "use british english"
+        },
+        {
+          "year": "1964",
+          "month": "9",
+          "day": "14",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Bishkek Academy of Finance and Economics",
+            "ru",
+            "Бишкекская финансово-экономическая академия"
+          ],
+          "template": "interlanguage link"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Akylbek Japarov"
+          },
+          "native_name": {
+            "text": "Акылбек Жапаров"
+          },
+          "image": {
+            "text": "Акылбек Жапаров (19-11-2021).jpg"
+          },
+          "caption": {
+            "text": "Japarov in 2021"
+          },
+          "office": {
+            "text": "Chairman of the Cabinet of Ministers of Kyrgyzstan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chairman of the Cabinet of Ministers of Kyrgyzstan"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sadyr Japarov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sadyr Japarov"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 October 2021 Acting: 12 October 2021 – 13 October 2021"
+          },
+          "predecessor": {
+            "text": "Ulukbek Maripov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ulukbek Maripov"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Economic Development and Trade"
+          },
+          "president1": {
+            "text": "Kurmanbek Bakiyev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kurmanbek Bakiyev"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "27 December 2007"
+          },
+          "term_end1": {
+            "text": "October 2009"
+          },
+          "office2": {
+            "text": "Minister of Economy and Finance",
+            "links": [
+              {
+                "text": "Minister of Economy and Finance",
+                "type": "internal",
+                "page": "Ministry of Economy and Finance (Kyrgyzstan)"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Kurmanbek Bakiyev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kurmanbek Bakiyev"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 March 2005"
+          },
+          "term_end2": {
+            "text": "27 December 2007"
+          },
+          "predecessor2": {
+            "text": "Bolot Abildaev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bolot Abildaev"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Tazhikan Kalimbetova",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tazhikan Kalimbetova"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 14, 1964"
+          },
+          "birth_place": {
+            "text": "Balykchy, Kirghiz SSR, Soviet Union (now Kyrgyzstan)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Balykchy"
+              },
+              {
+                "text": "Kirghiz SSR",
+                "type": "internal",
+                "page": "Kirghiz Soviet Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democratic Party (Before 2005) Ar-Namys (2005–present)",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Social Democratic Party of Kyrgyzstan"
+              },
+              {
+                "type": "internal",
+                "page": "Ar-Namys"
+              }
+            ]
+          },
+          "education": {
+            "text": "Kyrgyz Technical University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kyrgyz Technical University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Ulukbek Maripov becomes Chairman of Cabinet of Ministers of Kyrgyzstan",
+          "url": "https://akipress.com/news:657845:Ulukbek_Maripov_becomes_Chairman_of_Cabinet_of_Ministers_of_Kyrgyzstan/",
+          "access-date": "2021-05-06",
+          "website": "akipress.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Жапаров Акылбек Усенбекович",
+          "url": "https://eec.eaeunion.org/comission/council/zhaparov-akylbek-usenbekovich/",
+          "access-date": "2021-10-12",
+          "website": "eec.eaeunion.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Akylbek Japarov appointed as acting Chairman of the Cabinet",
+          "url": "https://akipress.com/news:663461:Akylbek_Japarov_appointed_as_acting_Chairman_of_the_Cabinet/",
+          "access-date": "2021-10-12",
+          "website": "akipress.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

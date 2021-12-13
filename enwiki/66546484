@@ -1,0 +1,129 @@
+{
+  "title": "Ruslan Kazakbayev",
+  "pageID": 66546484,
+  "categories": [
+    "Living people",
+    "Place of birth missing (living people)",
+    "Foreign ministers of Kyrgyzstan",
+    "Kyrgyzstani politicians",
+    "1967 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ruslan Aitbaevich Kazakbayev (Руслан Айтбаевич Казакбаев; born on 18 May 1967 in the Kara-Buura District) is a Kyrgyzstani politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kara-Buura District"
+                },
+                {
+                  "text": "Kyrgyzstani",
+                  "type": "internal",
+                  "page": "Kyrgyzstan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ruslan Aitbaevich Kazakbayev"
+                ]
+              }
+            },
+            {
+              "text": "He serves as Minister of Foreign Affairs.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Kyrgyzstan)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kyrgyzstani politician",
+          "template": "short description"
+        },
+        {
+          "year": "1967",
+          "month": "5",
+          "day": "18",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2020",
+            "10"
+          ],
+          "lc": "yes",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ruslan Kazakbayev"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Kyrgyzstan)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 2020"
+          },
+          "birth_date": {
+            "text": "May 18, 1967"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.kenesh.kg/",
+          "title": "Страница депутата &#124; Жогорку Кенеш Кыргызской Республики",
+          "first": "ЖОГОРКУ",
+          "last": "КЕҢЕШ",
+          "website": "www.kenesh.kg",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "23 October 2020",
+          "title": "New Kyrgyz Foreign Minister Says Russia Remains 'Major Partner'",
+          "work": "Radio Free Europe/Radio Liberty",
+          "url": "https://www.rferl.org/a/new-kyrgyz-foreign-minister-says-russia-remains-major-partner-/30909148.html",
+          "url-status": "live",
+          "access-date": "29 January 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Voloshin",
+          "first": "George",
+          "date": "27 October 2020",
+          "title": "Third Regime Change in Fifteen Years Upends Kyrgyzstani Politics (Part Two)",
+          "work": "Eurasia Daily Monitor Volume: 17 Issue: 151",
+          "url": "https://jamestown.org/program/third-regime-change-in-fifteen-years-upends-kyrgyzstani-politics-part-two/",
+          "url-status": "live",
+          "access-date": "29 January 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}
