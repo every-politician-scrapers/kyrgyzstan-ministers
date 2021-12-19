@@ -84,10 +84,6 @@
       ],
       "templates": [
         {
-          "description": "Kyrgyz head of government since 2021",
-          "template": "short description"
-        },
-        {
           "date": "October 2021",
           "template": "use dmy dates"
         },
