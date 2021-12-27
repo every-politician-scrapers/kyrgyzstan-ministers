@@ -17,12 +17,17 @@
         {
           "sentences": [
             {
-              "text": "Erlis Jekshenovich Terdikbayev (Kyrgyz and Russian: Эрлис Джекшенович Тердикбаев; born May 27, 1969) is a Kyrgyzstani General and the current Chief of the General Staff of the Armed Forces of Kyrgyzstan.",
+              "text": "Erlis Jekshenovich Terdikbayev (Kyrgyz: Эрлис Жекшенович (Жекшен уулу) Тердикбаев, romanised: Erlis Cekşenoviç (Cekşen uulu) Terdikbayev, Russian: Эрлис Джекшенович Тердикбаев; born May 27, 1969) is a Kyrgyzstani General and the current Chief of the General Staff of the Armed Forces of Kyrgyzstan.",
               "links": [
                 {
                   "text": "Kyrgyz",
                   "type": "internal",
                   "page": "Kyrgyz language"
+                },
+                {
+                  "text": "romanised",
+                  "type": "internal",
+                  "page": "Romanization"
                 },
                 {
                   "text": "Russian",
