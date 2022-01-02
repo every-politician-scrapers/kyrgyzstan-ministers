@@ -90,39 +90,6 @@
             "text": "May 18, 1967"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.kenesh.kg/",
-          "title": "Страница депутата &#124; Жогорку Кенеш Кыргызской Республики",
-          "first": "ЖОГОРКУ",
-          "last": "КЕҢЕШ",
-          "website": "www.kenesh.kg",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "23 October 2020",
-          "title": "New Kyrgyz Foreign Minister Says Russia Remains 'Major Partner'",
-          "work": "Radio Free Europe/Radio Liberty",
-          "url": "https://www.rferl.org/a/new-kyrgyz-foreign-minister-says-russia-remains-major-partner-/30909148.html",
-          "url-status": "live",
-          "access-date": "29 January 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Voloshin",
-          "first": "George",
-          "date": "27 October 2020",
-          "title": "Third Regime Change in Fifteen Years Upends Kyrgyzstani Politics (Part Two)",
-          "work": "Eurasia Daily Monitor Volume: 17 Issue: 151",
-          "url": "https://jamestown.org/program/third-regime-change-in-fifteen-years-upends-kyrgyzstani-politics-part-two/",
-          "url-status": "live",
-          "access-date": "29 January 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
