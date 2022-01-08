@@ -1,3 +1,6 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q100451004,First Japarov Cabinet,2020-10-14,11,,,2021-02-03,11,,,Q24031608,Cabinet of Ministers of Kyrgyzstan,,,Q97167244,Boronov Cabinet,Q109037628,Maripov Cabinet,,,,
-,Q100451004,First Japarov Cabinet,2020-10-14,11,,,2021-02-03,11,,,Q3112663,caretaker government,,,Q97167244,Boronov Cabinet,Q109037628,Maripov Cabinet,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q97167244,Boronov Cabinet,2020-06-17,11,,,2020-10-14,11,,,,,Q100451004,First Japarov Cabinet,,,,
+,Q100451004,First Japarov Cabinet,2020-10-14,11,,,2021-02-03,11,,,Q97167244,Boronov Cabinet,Q109037628,Maripov Cabinet,,,,
+,Q109037628,Maripov Cabinet,2021-02-03,11,,,2021-05-06,11,,,Q100451004,First Japarov Cabinet,Q109037625,Second Japarov Cabinet,,,,
+,Q109037625,Second Japarov Cabinet,2021-05-06,11,,,2021-10-13,11,,,Q109037628,Maripov Cabinet,Q109255623,Third Jarapov Cabinet,,,,
+,Q109255623,Third Jarapov Cabinet,2021-10-13,11,,,,,,,Q109037625,Second Japarov Cabinet,,,,,,
