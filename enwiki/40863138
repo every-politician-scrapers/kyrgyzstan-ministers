@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Kamchybek Kydyrshaevich Tashiev (Камчыбек Кыдыршаевич Ташиев; born 27 September 1968) is a Kyrgyzstani politician who was head of the political party Ata-Zhurt until its merger with the Respublika party in 2014.",
+              "text": "Kamchybek Kydyrshaevich Tashiev (Камчыбек Кыдыршаевич (Кыдырша уулу) Ташиев; born 27 September 1968) is a Kyrgyzstani politician who was head of the political party Ata-Zhurt until its merger with the Respublika party in 2014.",
               "links": [
                 {
                   "text": "Kyrgyzstani",
@@ -59,7 +59,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Kamchybek Tashiev\nКамчыбек Ташиев"
+            "text": "Kamchybek Tashiev"
           },
           "otherparty": {
             "text": "Respublika–Ata Zhurt",
@@ -113,6 +113,9 @@
           },
           "office1": {
             "text": "Ministry of Emergency Situations"
+          },
+          "native_name": {
+            "text": "Камчыбек Ташиев"
           }
         }
       ]
