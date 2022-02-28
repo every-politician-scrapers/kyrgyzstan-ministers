@@ -1,4 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q109037597,Üsenov Cabinet,2009-10-21,11,,,2010-04-07,11,,,,,,,,,,
 ,Q97167244,Boronov Cabinet,2020-06-17,11,,,2020-10-14,11,,,,,Q100451004,First Japarov Cabinet,,,,
 ,Q100451004,First Japarov Cabinet,2020-10-14,11,,,2021-02-03,11,,,Q97167244,Boronov Cabinet,Q109037628,Maripov Cabinet,,,,
 ,Q109037628,Maripov Cabinet,2021-02-03,11,,,2021-05-06,11,,,Q100451004,First Japarov Cabinet,Q109037625,Second Japarov Cabinet,,,,
