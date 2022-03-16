@@ -1,15 +1,15 @@
 id,name,relationship,relative,relativename
-Q110751908,Temirtai Izbastin,spouse,Q110751912,Karlyga Izbastina
-Q111008259,Kapar Kurmanaliev,spouse,Q111008267,Natalia Kurmanalieva
-Q23810819,Sooronbay Jeenbekov,sibling,Q4182022,Asylbek Jêênbekov
-Q23810819,Sooronbay Jeenbekov,spouse,Q59160096,Aigul Jeenbekova
-Q24692,Almazbek Atambayev,spouse,Q23685107,Raisa Atambayeva
-Q25597831,Talant Mamytov,spouse,Q107441930,Чинара Мамытова
-Q4059021,Askar Aitmatov,father,Q484292,Chinghiz Aitmatov
-Q4182022,Asylbek Jêênbekov,sibling,Q23810819,Sooronbay Jeenbekov
-Q44185879,Erlan Abdyldayev,father,Q13165346,"Абдылдаев, Бекеш"
-Q484816,Kurmanbek Bakiyev,child,Q2566115,Maxim Bakiyev
-Q489893,Askar Akayev,child,Q4059278,Aidar Akayev
-Q489893,Askar Akayev,child,Q4892570,Bermet Akayeva
-Q489893,Askar Akayev,spouse,Q58885833,Mayram Akayeva
-Q5285365,Djoomart Otorbaev,father,Q20628715,Kaiyp Otorbaev
+Q110751908,Temirtai Izbastin,spouse,Q110751912,
+Q111008259,Kapar Kurmanaliev,spouse,Q111008267,
+Q23810819,Sooronbay Jeenbekov,sibling,Q4182022,
+Q23810819,Sooronbay Jeenbekov,spouse,Q59160096,
+Q24692,Almazbek Atambayev,spouse,Q23685107,
+Q25597831,Talant Mamytov,spouse,Q107441930,
+Q4059021,Askar Aitmatov,father,Q484292,
+Q4182022,Asylbek Jêênbekov,sibling,Q23810819,
+Q44185879,Erlan Abdyldayev,father,Q13165346,
+Q484816,Kurmanbek Bakiyev,child,Q2566115,
+Q489893,Askar Akayev,child,Q4059278,
+Q489893,Askar Akayev,child,Q4892570,
+Q489893,Askar Akayev,spouse,Q58885833,
+Q5285365,Djoomart Otorbaev,father,Q20628715,
