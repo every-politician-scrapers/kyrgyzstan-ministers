@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Kyrgyzstan",
+      "id": "Q813"
+    },
+    "cabinet": {
+      "id": "Q109255623",
+      "start": "2021-10-13",
+      "parent": "Q24031608"
+    },
+    "source": {
+        "url":   "https://www.gov.kg/ky/gov/s/103",
+        "title": "Министрлер Кабинетинин мүчөлөрү | Кыргыз Республикасынын Министрлер Кабинети",
+        "lang":  {
+            "code": "ky",
+            "wikidata": "Q9255"
+        }
+    },
+    "agent": "every-politican-scrapers/kyrgyzstan-ministers"
+}
