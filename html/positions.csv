@@ -1,6 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q853036,President of Kyrgyzstan,Q813,Q813,,,1990-10-27,,,,President of Kyrgyzstan
 Q2333371,Prime Minister of Kyrgyzstan,Q813,Q813,,Q30149639,1991-01-21,,,,Chairman of the Cabinet of Ministers of Kyrgyzstan
+Q112762996,First Deputy Chairman of the Cabinet of Ministers,Q813,Q813,,,,,,,
 Q29561881,Deputy Prime Minister of Kyrgyzstan,,Q813,,,,,,,
 Q110084474,"Minister of Agriculture, Food Industry and Melioration",,Q813,,,,,,,
 Q110084540,"Minister of Culture, Information and Tourism",,Q813,,,,,,,
