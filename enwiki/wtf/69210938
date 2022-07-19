@@ -1,0 +1,105 @@
+{
+  "title": "Gulnara-Klara Samat",
+  "pageID": 69210938,
+  "categories": [
+    "Kyrgyzstani women diplomats",
+    "21st-century Kyrgyzstani women politicians",
+    "21st-century Kyrgyzstani politicians",
+    "Ambassadors of Kyrgyzstan to Russia",
+    "Members of the Supreme Council (Kyrgyzstan)",
+    "Ambassadors of Kyrgyzstan to Armenia",
+    "1963 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gulnara-Klara Samat (born 20 August 1963) is a Kyrgyzstani politician and diplomat.",
+              "links": [
+                {
+                  "text": "Kyrgyzstani",
+                  "type": "internal",
+                  "page": "Kyrgyz people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gulnara-Klara Samat"
+                ]
+              }
+            },
+            {
+              "text": "Since 2021, she become an ambassador to Russia and Armenia.",
+              "links": [
+                {
+                  "text": "ambassador",
+                  "type": "internal",
+                  "page": "Foreign relations of Kyrgyzstan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Armenia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kyrgyz politician and diplomat",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "fetchwikidata": {
+            "text": "ALL"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Кыргыз Республикасынын Россия Федерациясындагы Элчилиги",
+          "url": "https://mfa.gov.kg/kg/dm/Embassy-of-the-Kyrgyz-Republic-in-the-Russian-Federation/Menu---Foreign-/o-posolstve/about-the-Head-of-the-Mission-/lava-diplomaticheskoy-missii",
+          "url-status": "live",
+          "access-date": "2021-11-07",
+          "website": "mfa.gov.kg",
+          "language": "Kyrgyz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "MOKRENKO",
+          "first": "Anastasia",
+          "date": "2021-10-04",
+          "title": "Gulnara-Klara Samat appointed Ambassador of Kyrgyzstan to Armenia",
+          "url": "https://24.kg/english/209222_Gulnara-Klara_Samat_appointed_Ambassador_of_Kyrgyzstan_to_Armenia/",
+          "access-date": "2021-11-07",
+          "website": "24.kg",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "kyrgyzstan-politician-stub"
+        }
+      ]
+    }
+  ]
+}
