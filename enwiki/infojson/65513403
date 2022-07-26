@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Kyrgyzstan"
+      ],
+      "stated_as": "22nd Prime Minister of Kyrgyzstan"
+    },
+    "P580": "2020-10-10",
+    "P1365": {
+      "links": [
+        "Kubatbek Boronov"
+      ],
+      "stated_as": "Kubatbek Boronov"
+    },
+    "P582": "2020-11-14",
+    "P1366": {
+      "links": [
+        "Artem Novikov"
+      ],
+      "stated_as": "Artem Novikov (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Kyrgyzstan"
+      ],
+      "stated_as": "6th President of Kyrgyzstan"
+    },
+    "P580": "2020-10-15",
+    "P1365": {
+      "links": [
+        "Sooronbay Jeenbekov"
+      ],
+      "stated_as": "Sooronbay Jeenbekov"
+    },
+    "P582": "2020-11-14",
+    "P1366": {
+      "links": [
+        "Talant Mamytov"
+      ],
+      "stated_as": "Talant Mamytov (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Kyrgyzstan"
+      ],
+      "stated_as": "6th President of Kyrgyzstan"
+    },
+    "P580": "2021-01-28",
+    "P1365": {
+      "links": [
+        "Talant Mamytov"
+      ],
+      "stated_as": "Talant Mamytov (acting)"
+    }
+  }
+]

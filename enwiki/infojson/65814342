@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Chairmen of the Supreme Council of Kyrgyzstan"
+      ],
+      "stated_as": "Speaker of the Supreme Council"
+    },
+    "P580": "2020-11-04",
+    "P1365": {
+      "links": [
+        "Kanatbek Isaev"
+      ],
+      "stated_as": "Kanatbek Isaev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Kyrgyzstan"
+      ],
+      "stated_as": "Acting President of Kyrgyzstan"
+    },
+    "P580": "2020-11-14",
+    "P1365": {
+      "links": [
+        "Sadyr Japarov"
+      ],
+      "stated_as": "Sadyr Japarov (acting)"
+    },
+    "P582": "2021-01-28",
+    "P1366": {
+      "links": [
+        "Sadyr Japarov"
+      ],
+      "stated_as": "Sadyr Japarov"
+    }
+  }
+]
