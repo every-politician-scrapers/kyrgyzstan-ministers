@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy and Finance (Kyrgyzstan)"
+      ],
+      "stated_as": "Minister of Economy and Finance"
+    },
+    "P580": "2005-03-26",
+    "P1365": {
+      "links": [
+        "Bolot Abildaev"
+      ],
+      "stated_as": "Bolot Abildaev"
+    },
+    "P582": "2007-12-27",
+    "P1366": {
+      "links": [
+        "Tazhikan Kalimbetova"
+      ],
+      "stated_as": "Tajıqan Qalımbetova"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Economic Development and Trade"
+    },
+    "P580": "2007-12-27",
+    "P582": "2009-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Cabinet of Ministers of Kyrgyzstan"
+      ],
+      "stated_as": "2nd Chairman of the Cabinet of Ministers of Kyrgyzstan"
+    },
+    "P580": "2021-10-12",
+    "P1365": {
+      "links": [
+        "Ulukbek Maripov"
+      ],
+      "stated_as": "Uluqbek Maripov"
+    }
+  }
+]

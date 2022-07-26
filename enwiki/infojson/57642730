@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "Commander of the Army (Kyrgyzstan)"
+      ],
+      "stated_as": "Commander of the Kyrgyz Army"
+    },
+    "P580": "2017-01-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Post Established"
+    },
+    "P582": "2018-04-21",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Nurlan Kiresheyev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defense of the Kyrgyz Republic"
+      ],
+      "stated_as": "Chairman of the State Committee for Defense Affairs"
+    },
+    "P580": "2018-04-21",
+    "P1365": {
+      "links": [
+        "Mirbek Kasimkulov"
+      ],
+      "stated_as": "Mirbek Kasimkulov"
+    },
+    "P582": "2021-02-03"
+  },
+  {
+    "office": {
+      "links": [
+        "General Staff of Armed Forces of the Kyrgyz Republic"
+      ],
+      "stated_as": "Chief of the General Staff"
+    },
+    "P580": "2021-03-29",
+    "P1365": {
+      "links": [
+        "Taalaibek Omuraliev"
+      ],
+      "stated_as": "Taalaibek Omuraliev"
+    }
+  }
+]

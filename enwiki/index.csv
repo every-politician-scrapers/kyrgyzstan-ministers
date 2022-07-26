@@ -1,8 +1,8 @@
-pageid,title
-40863138,Kamchybek Tashiev
-55024320,Bakyt Torobayev
-57642730,Erlis Terdikbayev
-65513403,Sadyr Japarov
-65814342,Talant Mamytov
-68990050,Akylbek Japarov
-69210938,Gulnara-Klara Samat
+pageid,title,wikidata,label
+40863138,Kamchybek Tashiev,Q1584976,Kamchybek Tashiev
+55024320,Bakyt Torobayev,Q38459236,Bakyt Torobayev
+57642730,Erlis Terdikbayev,Q55081125,Erlis Terdikbayev
+65513403,Sadyr Japarov,Q25597826,Sadyr Zhaparov
+65814342,Talant Mamytov,Q25597831,Talant Mamytov
+68990050,Akylbek Japarov,Q4060344,Akylbek Japarov
+69210938,Gulnara-Klara Samat,Q109446127,Gulnara-Klara Samat
